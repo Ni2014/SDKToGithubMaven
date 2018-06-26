@@ -5,4 +5,8 @@ public class Push {
     public static void init(String appId){
 
     }
+
+    public static void startWork(){
+
+    }
 }
